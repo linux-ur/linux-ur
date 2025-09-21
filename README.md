@@ -1,4 +1,4 @@
-<h2 align="left">Fuck You</h2>
+<h2 align="left">Hi</h2>
 
 ###
 
@@ -53,5 +53,11 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=linux-ur.linux-ur&left_color=black&right_color=black&left_text=Views"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/linux-ur/linux-ur/output/snake.svg" alt="Snake animation" />
 
 ###
