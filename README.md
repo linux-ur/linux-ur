@@ -46,7 +46,7 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="logo.png"  />
+<img align="right" height="200" src="logo.gif"  />
 
 ###
 
