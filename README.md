@@ -46,7 +46,7 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://raw.githubusercontent.com/linux-ur/linux-ur/refs/heads/main/logo.gif"  />
+<img align="right" height="200" src="https://raw.githubusercontent.com/linux-ur/linux-ur/refs/heads/main/logo.jpg"  />
 
 ###
 
