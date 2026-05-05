@@ -131,7 +131,7 @@
 <br clear="both">
 
 <div align="left">
-  <img height="200" src="https://raw.githubusercontent.com/linux-ur/linux-ur/refs/heads/main/logo.jpg"  />
+  <img height="400" src="https://raw.githubusercontent.com/linux-ur/linux-ur/refs/heads/main/logo.jpg"  />
 </div>
 
 ###
