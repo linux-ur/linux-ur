@@ -8,10 +8,6 @@
 
 ###
 
-<img data-importer="profile-views" align="center" src="https://visitor-badge.laobi.icu/badge?page_id=linux-ur.linux-ur&left_color=lightslategray&right_color=lightgray"  />
-
-###
-
 <h4 data-importer="text" align="center">Languages:</h4>
 
 ###
@@ -169,6 +165,10 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31hyp7bkffz5ccaezngqqbgiz27y&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
+
+###
+
+<img data-importer="profile-views" align="center" src="https://visitor-badge.laobi.icu/badge?page_id=linux-ur.linux-ur&left_color=lightslategray&right_color=lightgray"  />
 
 ###
 
